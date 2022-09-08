@@ -1,0 +1,12 @@
+{
+  "name": "zmarket/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "keywords": ["zmarket", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
