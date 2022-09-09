@@ -1,9 +1,16 @@
 {
   "name": "zmarket/init",
-  "description": "",
+  "description": "zMarket is intended for delivery of packages and applications on various systems.",
   "type": "project",
   "license": "MIT",
+  "homepage": "https://github.com/zmarket",
   "keywords": ["zmarket", "init-composer"],
+  "support": {
+    "source": "https://github.com/zmarket/init",
+    "issues": "https://github.com/zmarket/init/issues",
+    "docs": "https://github.com/zmarket/init/wiki",
+    "forum": "https://github.com/zmarket/init/discussions"
+  },
   "config": {
     "optimize-autoloader": true,
     "prepend-autoloader": false,
